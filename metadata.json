@@ -1,0 +1,6 @@
+{
+  "name": "Afterma",
+  "description": "Premium maternal healing and emotional wellness platform for postpartum recovery, pediatric support, therapy journeys, and safe motherhood.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
